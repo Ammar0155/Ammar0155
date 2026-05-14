@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a Senior Student at **WE School for Applied Technology**, passionate about **Network Infrastructure** and **Web Development**. I love blending technology with community work and creativity.
 
-- 🎓 **Currently:** Finishing my final year at WE Zayed.
+- 🎓 **Currently:** Finishing my final year at WE School for Applied Technology - Sheikh Zayed branch.
 - ⚡ **Leadership:** Vice-Leader of HRD at **EYE** (Egyptians Youth Entity).
 - 🎙️ **Creativity:** Head of Voice Over committee at **Vision X**.
 - 🛠️ **Tech Interests:** FTTH, GPON, and building interactive 3D web apps.
